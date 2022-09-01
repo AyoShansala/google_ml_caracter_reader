@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310426576148",
+    "project_id": "meter-reader-1ea88",
+    "storage_bucket": "meter-reader-1ea88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310426576148:android:3b8814bd89308c2d63ce01",
+        "android_client_info": {
+          "package_name": "com.example.meter_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310426576148-3imjfeasgg2hmb5v6vd13tru9rclnupa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJPmSTYKDjhxEBodHMJCxY5HCihXL3OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310426576148-3imjfeasgg2hmb5v6vd13tru9rclnupa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
